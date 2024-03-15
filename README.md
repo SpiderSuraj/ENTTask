@@ -2,7 +2,7 @@
 1. Run npm install to install packages and dependencies
 2. Run npm start to start development server
 
-## Dashboard
+## App Screenshot
 ![WhatsApp Image 2024-03-15 at 10 39 27 PM](https://github.com/SpiderSuraj/ENTTask/assets/159343348/f6a6d937-c7a7-4a02-b657-856bbfd9f3ef)
 ![WhatsApp Image 2024-03-15 at 10 39 27 PM (1)](https://github.com/SpiderSuraj/ENTTask/assets/159343348/50d87b2b-0b75-40a3-9bae-cc888c389378)
 ![WhatsApp Image 2024-03-15 at 10 39 27 PM (2)](https://github.com/SpiderSuraj/ENTTask/assets/159343348/2198c2e5-a62f-4d7b-84ff-28efa2db13ab)
